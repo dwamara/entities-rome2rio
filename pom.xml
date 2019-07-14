@@ -4,7 +4,7 @@
 
     <groupId>com.dwitech.travel</groupId>
     <artifactId>entities-rome2rio</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <packaging>jar</packaging>
 <distributionManagement>
@@ -17,7 +17,7 @@
         <connection>scm:git:https://github.com/dwamara/entities-rome2rio.git</connection>
         <url>https://github.com/dwamara/entities-rome2rio</url>
         <developerConnection>scm:git:https://github.com/dwamara/entities-rome2rio.git</developerConnection>
-    <tag>entities-rome2rio-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
     <dependencies>
